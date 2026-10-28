@@ -2,7 +2,7 @@
 
 Open source projects that bring modern frontend developer experience to Keycloak — typed roles, native UI components, login themes without Freemarker wrestling, and secure BFF patterns.
 
-**Website:** [keycloak-frontend-tools.github.io](https://keycloak-frontend-tools.github.io/keycloak-frontend-tools/)
+**Website:** [keycloak-frontend-tools.github.io](https://keycloak-frontend-tools.github.io/)
 
 ---
 
